@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>手机电脑小帮手</title>
+    <link href="https://sjdnxbs.github.io/feed.xml" rel="self" />
+    <link href="https://sjdnxbs.github.io" />
+    <updated>2024-03-20T14:46:13+08:00</updated>
+    <author>
+        <name>爱笑哥</name>
+    </author>
+    <id>https://sjdnxbs.github.io</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>爱笑哥</name>
+        </author>
+        <link href="https://sjdnxbs.github.io/test.html"/>
+        <id>https://sjdnxbs.github.io/test.html</id>
+        <media:content url="https://sjdnxbs.github.io/media/posts/1/1.jpeg" medium="image" />
+            <category term="Android"/>
+
+        <updated>2024-03-19T22:42:13+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sjdnxbs.github.io/media/posts/1/1.jpeg" alt="" />
+                    第一个测试网页
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sjdnxbs.github.io/media/posts/1/1.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>第一个测试网页</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

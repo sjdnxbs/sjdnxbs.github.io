@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "手机电脑小帮手",
+    "description": "",
+    "home_page_url": "https://sjdnxbs.github.io",
+    "feed_url": "https://sjdnxbs.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://sjdnxbs.github.io/media/website/1709897191490.png",
+    "author": {
+        "name": "爱笑哥"
+    },
+    "items": [
+        {
+            "id": "https://sjdnxbs.github.io/test.html",
+            "url": "https://sjdnxbs.github.io/test.html",
+            "title": "test",
+            "summary": "第一个测试网页",
+            "content_html": "<p>第一个测试网页</p>",
+            "image": "https://sjdnxbs.github.io/media/posts/1/1.jpeg",
+            "author": {
+                "name": "爱笑哥"
+            },
+            "tags": [
+                   "Android"
+            ],
+            "date_published": "2024-03-19T22:42:13+08:00",
+            "date_modified": "2024-03-20T14:46:13+08:00"
+        }
+    ]
+}
