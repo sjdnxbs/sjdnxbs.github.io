@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://sjdnxbs.github.io/tu-shu.html",
+            "url": "https://sjdnxbs.github.io/tu-shu.html",
+            "title": "图书",
+            "summary": "这是一个图书和谐了",
+            "content_html": "<p>这是一个图书和谐了</p>",
+            "image": "https://sjdnxbs.github.io/media/posts/4/5.jpeg",
+            "author": {
+                "name": "爱笑哥"
+            },
+            "tags": [
+                   "图书"
+            ],
+            "date_published": "2024-03-20T19:22:59+08:00",
+            "date_modified": "2024-03-20T19:22:59+08:00"
+        },
+        {
             "id": "https://sjdnxbs.github.io/di-san-ge.html",
             "url": "https://sjdnxbs.github.io/di-san-ge.html",
             "title": "第三个",

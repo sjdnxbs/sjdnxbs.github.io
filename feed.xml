@@ -3,12 +3,36 @@
     <title>手机电脑小帮手</title>
     <link href="https://sjdnxbs.github.io/feed.xml" rel="self" />
     <link href="https://sjdnxbs.github.io" />
-    <updated>2024-03-20T17:50:37+08:00</updated>
+    <updated>2024-03-20T19:22:59+08:00</updated>
     <author>
         <name>爱笑哥</name>
     </author>
     <id>https://sjdnxbs.github.io</id>
 
+    <entry>
+        <title>图书</title>
+        <author>
+            <name>爱笑哥</name>
+        </author>
+        <link href="https://sjdnxbs.github.io/tu-shu.html"/>
+        <id>https://sjdnxbs.github.io/tu-shu.html</id>
+        <media:content url="https://sjdnxbs.github.io/media/posts/4/5.jpeg" medium="image" />
+            <category term="图书"/>
+
+        <updated>2024-03-20T19:22:59+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sjdnxbs.github.io/media/posts/4/5.jpeg" alt="error" />
+                    这是一个图书和谐了
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sjdnxbs.github.io/media/posts/4/5.jpeg" class="type:primaryImage" alt="error" /></p>
+                <p>这是一个图书和谐了</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>第三个</title>
         <author>
