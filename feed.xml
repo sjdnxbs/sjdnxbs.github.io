@@ -3,12 +3,33 @@
     <title>手机电脑小帮手</title>
     <link href="https://sjdnxbs.github.io/feed.xml" rel="self" />
     <link href="https://sjdnxbs.github.io" />
-    <updated>2024-03-20T14:49:29+08:00</updated>
+    <updated>2024-03-20T17:50:37+08:00</updated>
     <author>
         <name>爱笑哥</name>
     </author>
     <id>https://sjdnxbs.github.io</id>
 
+    <entry>
+        <title>第三个</title>
+        <author>
+            <name>爱笑哥</name>
+        </author>
+        <link href="https://sjdnxbs.github.io/di-san-ge.html"/>
+        <id>https://sjdnxbs.github.io/di-san-ge.html</id>
+            <category term="window"/>
+
+        <updated>2024-03-20T17:50:37+08:00</updated>
+            <summary>
+                <![CDATA[
+                    第三个测试
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>第三个测试</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>second</title>
         <author>
