@@ -3,7 +3,7 @@
     <title>手机电脑小帮手</title>
     <link href="https://sjdnxbs.github.io/feed.xml" rel="self" />
     <link href="https://sjdnxbs.github.io" />
-    <updated>2024-03-22T22:11:53+08:00</updated>
+    <updated>2024-03-22T23:07:59+08:00</updated>
     <author>
         <name>爱笑哥</name>
     </author>
@@ -16,17 +16,20 @@
         </author>
         <link href="https://sjdnxbs.github.io/pythonan-zhuang-jiao-cheng.html"/>
         <id>https://sjdnxbs.github.io/pythonan-zhuang-jiao-cheng.html</id>
+        <media:content url="https://sjdnxbs.github.io/media/posts/7/4.jpeg" medium="image" />
             <category term="教程"/>
             <category term="window"/>
 
         <updated>2024-03-22T22:11:53+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://sjdnxbs.github.io/media/posts/7/4.jpeg" alt="" />
                     打开国内的镜像网站Index of python-local/3.12.2 (huaweicloud.com)找到如下图的程序下载即可。比官网的要快 【我下载的是12.2的版本，你也可以根据自己的需求选择不同的版本】 下载完成之后就是安装了 2.1 双击下载的程序，出现如下界面 我们选择自定义安装路径 2.2 出现如下界面 对勾都打上，点击【Next】 2.3 出现如下界面 我们将安装路径改到自己需要安装的盘符，我是修改到了D盘，如下图，点击【install】 2.4 出现如下界面，等待安装进度条完成 出现如下界面，点击【close】即可 2.5 安装完成后，如下操作打开命令行：同时按 “Windows+R” -&gt; 输入 “cmd” -&gt; 点击确定。 2.6 输入 “python” 然后 按【Enter】回车键，若出现下图显示的信息，表明安装成功（命令行变为三个大于号）
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://sjdnxbs.github.io/media/posts/7/4.jpeg" class="type:primaryImage" alt="" /></p>
                 <ol class="ol-list" start="">
 <li class="md-list-item">
 <p class="md-end-block md-p"><span class="md-plain md-expand">打开国内的镜像网站</span><span class="md-meta-i-c  md-link"><a href="https://mirrors.huaweicloud.com/python/3.12.2/"><span class="md-plain">Index of python-local/3.12.2 (huaweicloud.com)</span></a></span><span class="md-plain">找到如下图的程序下载即可。比官网的要快</span></p>
