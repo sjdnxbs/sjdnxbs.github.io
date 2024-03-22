@@ -3,12 +3,60 @@
     <title>手机电脑小帮手</title>
     <link href="https://sjdnxbs.github.io/feed.xml" rel="self" />
     <link href="https://sjdnxbs.github.io" />
-    <updated>2024-03-21T17:28:50+08:00</updated>
+    <updated>2024-03-22T22:11:53+08:00</updated>
     <author>
         <name>爱笑哥</name>
     </author>
     <id>https://sjdnxbs.github.io</id>
 
+    <entry>
+        <title>python安装教程</title>
+        <author>
+            <name>爱笑哥</name>
+        </author>
+        <link href="https://sjdnxbs.github.io/pythonan-zhuang-jiao-cheng.html"/>
+        <id>https://sjdnxbs.github.io/pythonan-zhuang-jiao-cheng.html</id>
+            <category term="教程"/>
+            <category term="window"/>
+
+        <updated>2024-03-22T22:11:53+08:00</updated>
+            <summary>
+                <![CDATA[
+                    打开国内的镜像网站Index of python-local/3.12.2 (huaweicloud.com)找到如下图的程序下载即可。比官网的要快 【我下载的是12.2的版本，你也可以根据自己的需求选择不同的版本】 下载完成之后就是安装了 2.1 双击下载的程序，出现如下界面 我们选择自定义安装路径 2.2 出现如下界面 对勾都打上，点击【Next】 2.3 出现如下界面 我们将安装路径改到自己需要安装的盘符，我是修改到了D盘，如下图，点击【install】 2.4 出现如下界面，等待安装进度条完成 出现如下界面，点击【close】即可 2.5 安装完成后，如下操作打开命令行：同时按&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol class="ol-list" start="">
+<li class="md-list-item">
+<p class="md-end-block md-p"><span class="md-plain md-expand">打开国内的镜像网站</span><span class="md-meta-i-c  md-link"><a href="https://mirrors.huaweicloud.com/python/3.12.2/"><span class="md-plain">Index of python-local/3.12.2 (huaweicloud.com)</span></a></span><span class="md-plain">找到如下图的程序下载即可。比官网的要快</span></p>
+<p class="md-end-block md-p"><span class="md-plain">【我下载的是12.2的版本，你也可以根据自己的需求选择不同的版本】</span></p>
+</li>
+</ol>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="python安装教程/image-20240221204028292-17085192328962.png"><img loading="lazy" src="file:///C:/Users/%E9%A9%AC/Desktop/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/image-20240221204028292-17085192328962.png?lastModify=1711116672" alt="image-20240221204028292" data-local-refresh="true" data-is-external-image="true"></span></p>
+<ol class="ol-list" start="2">
+<li class="md-list-item">
+<p class="md-end-block md-p"><span class="md-plain">下载完成之后就是安装了</span></p>
+<p class="md-end-block md-p"><span class="md-plain">2.1 双击下载的程序，出现如下界面</span><span class="md-image md-img-loaded" data-src="python安装教程/image-20240221204859126.png"><img loading="lazy" src="file:///C:/Users/%E9%A9%AC/Desktop/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/image-20240221204859126.png?lastModify=1711116672" alt="image-20240221204859126" data-local-refresh="true" data-is-external-image="true"></span></p>
+</li>
+</ol>
+<p class="md-end-block md-p"><span class="md-plain">我们选择自定义安装路径</span></p>
+<p class="md-end-block md-p"><span class="md-plain">2.2 出现如下界面</span><span class="md-image md-img-loaded" data-src="python安装教程/image-20240221205138565.png"><img loading="lazy" src="file:///C:/Users/%E9%A9%AC/Desktop/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/image-20240221205138565.png?lastModify=1711116672" alt="image-20240221205138565" data-local-refresh="true" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">对勾都打上，点击【Next】</span></p>
+<p class="md-end-block md-p"><span class="md-plain">2.3 出现如下界面</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="python安装教程/image-20240221205426484.png"><img loading="lazy" src="file:///C:/Users/%E9%A9%AC/Desktop/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/image-20240221205426484.png?lastModify=1711116672" alt="image-20240221205426484" data-local-refresh="true" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">我们将安装路径改到自己需要安装的盘符，我是修改到了D盘，如下图，点击【install】</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="python安装教程/image-20240221205701323.png"><img loading="lazy" src="file:///C:/Users/%E9%A9%AC/Desktop/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/image-20240221205701323.png?lastModify=1711116672" alt="image-20240221205701323" data-local-refresh="true" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">2.4 出现如下界面，等待安装进度条完成</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="python安装教程/image-20240221205942295.png"><img loading="lazy" src="file:///C:/Users/%E9%A9%AC/Desktop/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/image-20240221205942295.png?lastModify=1711116672" alt="image-20240221205942295" data-local-refresh="true" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">出现如下界面，点击【close】即可</span><span class="md-image md-img-loaded" data-src="python安装教程/image-20240221210156143.png"><img loading="lazy" src="file:///C:/Users/%E9%A9%AC/Desktop/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/image-20240221210156143.png?lastModify=1711116672" alt="image-20240221210156143" data-local-refresh="true" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">2.5 安装完成后，如下操作打开命令行：同时按 “Windows+R” -&gt; 输入 “cmd” -&gt; 点击确定。</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="python安装教程/512b46eabdad4dc8a05a14c354e9ce42.jpeg"><img loading="lazy" src="file:///C:/Users/%E9%A9%AC/Desktop/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/python%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/512b46eabdad4dc8a05a14c354e9ce42.jpeg?lastModify=1711116672" alt="512b46eabdad4dc8a05a14c354e9ce42" data-local-refresh="true" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">2.6 输入 “python” 然后 按【Enter】回车键，若出现下图显示的信息，表明安装成功（命令行变为三个大于号）</span></p>
+<p class="md-end-block md-p md-focus"> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>一个软件，让你电脑控制手机</title>
         <author>
