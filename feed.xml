@@ -3,7 +3,7 @@
     <title>手机电脑小帮手</title>
     <link href="https://sjdnxbs.github.io/feed.xml" rel="self" />
     <link href="https://sjdnxbs.github.io" />
-    <updated>2024-03-24T12:14:50+08:00</updated>
+    <updated>2024-03-24T12:26:22+08:00</updated>
     <author>
         <name>爱笑哥</name>
     </author>
@@ -139,37 +139,37 @@
 <p>    设备通过 USB 连接上电脑后，有可能会弹出授权提示，点击“确定”：</p>
 </section>
 <section>
-<section><figure class="raw-image"><img loading="lazy"  src="https://img.xiumi.us/xmi/ua/15UxL/i/d5f08af0a2da70689d6a9fc6ece1725c-sz_56411.png" crossorigin="anonymous" data-s="300,640" data-is-external-image="true"></figure></section>
+<section><figure class="post__image"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/6/1.png" width="332" height="543" crossorigin="anonymous" data-s="300,640" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/6/responsive/1-xs.png 300w ,https://sjdnxbs.github.io/media/posts/6/responsive/1-sm.png 480w ,https://sjdnxbs.github.io/media/posts/6/responsive/1-md.png 768w ,https://sjdnxbs.github.io/media/posts/6/responsive/1-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/6/responsive/1-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/6/responsive/1-2xl.png 1600w"></figure></section>
 </section>
 <section>
 <p>    4. 我们在电脑左下角的搜索框“环境变量”这几个词并搜索，然后选择打开。如下图：</p>
 </section>
 <section>
-<section><figure class="raw-image"><img loading="lazy"  src="https://img.xiumi.us/xmi/ua/15UxL/i/15e9f105d143281bc103b71ea82ce4ab-sz_329537.png" crossorigin="anonymous" data-s="300,640" data-is-external-image="true"></figure></section>
+<section><figure class="post__image"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/6/2.png" width="686" height="672" crossorigin="anonymous" data-s="300,640" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/6/responsive/2-xs.png 300w ,https://sjdnxbs.github.io/media/posts/6/responsive/2-sm.png 480w ,https://sjdnxbs.github.io/media/posts/6/responsive/2-md.png 768w ,https://sjdnxbs.github.io/media/posts/6/responsive/2-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/6/responsive/2-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/6/responsive/2-2xl.png 1600w"></figure></section>
 </section>
 <section>
 <p>    ​然后再出现的界面，选择【高级】，选择【环境变量】，如下图所示：</p>
 </section>
 <section>
-<section><figure class="raw-image"><img loading="lazy"  src="https://img.xiumi.us/xmi/ua/15UxL/i/639c0f5c6b5dd6fe65aeeb3e33787480-sz_48367.png" crossorigin="anonymous" data-s="300,640" data-is-external-image="true"></figure></section>
+<section><figure class="post__image"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/6/3.png" width="479" height="598" crossorigin="anonymous" data-s="300,640" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/6/responsive/3-xs.png 300w ,https://sjdnxbs.github.io/media/posts/6/responsive/3-sm.png 480w ,https://sjdnxbs.github.io/media/posts/6/responsive/3-md.png 768w ,https://sjdnxbs.github.io/media/posts/6/responsive/3-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/6/responsive/3-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/6/responsive/3-2xl.png 1600w"></figure></section>
 </section>
 <section>
 <p>    在进入【环境变量】的页面，我们在系统变量里找到【Path】这个变量，选中之后。点击编辑，如下图步骤三的操作。</p>
 </section>
 <section>
-<section><figure class="raw-image"><img loading="lazy"  src="https://img.xiumi.us/xmi/ua/15UxL/i/6b638810007fd45892ccd38495bf80fa-sz_57411.png" crossorigin="anonymous" data-s="300,640" data-is-external-image="true"></figure></section>
+<section><figure class="post__image"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/6/4.png" width="618" height="659" crossorigin="anonymous" data-s="300,640" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/6/responsive/4-xs.png 300w ,https://sjdnxbs.github.io/media/posts/6/responsive/4-sm.png 480w ,https://sjdnxbs.github.io/media/posts/6/responsive/4-md.png 768w ,https://sjdnxbs.github.io/media/posts/6/responsive/4-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/6/responsive/4-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/6/responsive/4-2xl.png 1600w"></figure></section>
 </section>
 <section>
 <p>    然后，在编辑环境变量界面，选择新建，就会出现一个新的变量编辑，我们将我们下载的软件的目录复制过来并粘贴即可。最好点击确定。将三个界面都点确定。</p>
 </section>
 <section>
-<section><figure class="raw-image"><img loading="lazy"  src="https://img.xiumi.us/xmi/ua/15UxL/i/a35a858256eb10f57bc9b3100b0d0df6-sz_51157.png" crossorigin="anonymous" data-s="300,640" data-is-external-image="true"></figure></section>
+<section><figure class="post__image"><img loading="lazy"  src="https://img.xiumi.us/xmi/ua/15UxL/i/a35a858256eb10f57bc9b3100b0d0df6-sz_51157.png" width="527" height="563" crossorigin="anonymous" data-s="300,640" data-is-external-image="true"></figure></section>
 </section>
 <section>
 <p>    这是我的下载之后的软件所在的目录，就将这个目录复制粘贴在上图的步骤②中。</p>
 </section>
 <section>
-<section><figure class="raw-image"><img loading="lazy"  src="https://img.xiumi.us/xmi/ua/15UxL/i/92459ed458c67aeb8e985a8ffaa0cc7b-sz_51083.png" crossorigin="anonymous" data-s="300,640" data-is-external-image="true"></figure></section>
+<section><figure class="post__image"><img loading="lazy"  src="https://img.xiumi.us/xmi/ua/15UxL/i/92459ed458c67aeb8e985a8ffaa0cc7b-sz_51083.png" width="687" height="419" crossorigin="anonymous" data-s="300,640" data-is-external-image="true"></figure></section>
 </section>
 <section>
 <p> </p>
@@ -177,14 +177,14 @@
 <p>    软件的页面如下图所示：</p>
 </section>
 <section>
-<section><figure class="raw-image"><img loading="lazy"  src="https://img.xiumi.us/xmi/ua/15UxL/i/24af9cf341621181f1a88013c9070d66-sz_43438.png" crossorigin="anonymous" data-s="300,640" data-is-external-image="true"></figure></section>
+<section><figure class="post__image"><img loading="lazy"  src="https://img.xiumi.us/xmi/ua/15UxL/i/24af9cf341621181f1a88013c9070d66-sz_43438.png" width="640" height="341" crossorigin="anonymous" data-s="300,640" data-is-external-image="true"></figure></section>
 </section>
 <section>
 <p>    5. 我们选择双击打开上图标记的这个“scrcpy.exe”程序。</p>
 <p>    运行程序之后就会自动弹出手机的页面信息了，我们的电脑上显示了我们的手机界面了。如下图所示：</p>
 </section>
 <section>
-<section><figure class="raw-image"><img loading="lazy"  src="https://img.xiumi.us/xmi/ua/15UxL/i/5b522ca0c750ad4242290a3f9af8fc65-sz_59750.png" crossorigin="anonymous" data-s="300,640" data-is-external-image="true"></figure></section>
+<section><figure class="post__image"><img loading="lazy"  src="https://img.xiumi.us/xmi/ua/15UxL/i/5b522ca0c750ad4242290a3f9af8fc65-sz_59750.png" width="284" height="632" crossorigin="anonymous" data-s="300,640" data-is-external-image="true"></figure></section>
 </section>
 <section>
 <p>    我们就可以在电脑上进行操作你的手机了。</p>
@@ -201,7 +201,7 @@
 </section>
 </section>
 <section>
-<section><figure class="raw-image"><img loading="lazy"  src="https://img.xiumi.us/xmi/ua/15UxL/i/7b98a91840de15ed2229cc808acdf0b5-sz_80211.png" crossorigin="anonymous" data-s="300,640" data-is-external-image="true"></figure></section>
+<section><figure class="post__image"><img loading="lazy"  src="https://img.xiumi.us/xmi/ua/15UxL/i/7b98a91840de15ed2229cc808acdf0b5-sz_80211.png" width="702" height="250" crossorigin="anonymous" data-s="300,640" data-is-external-image="true"></figure></section>
 </section>
 <section></section>
 <section>
