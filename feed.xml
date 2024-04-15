@@ -3,12 +3,72 @@
     <title>手机电脑小帮手</title>
     <link href="https://sjdnxbs.github.io/feed.xml" rel="self" />
     <link href="https://sjdnxbs.github.io" />
-    <updated>2024-04-11T23:06:19+08:00</updated>
+    <updated>2024-04-15T12:25:06+08:00</updated>
     <author>
         <name>爱笑哥</name>
     </author>
     <id>https://sjdnxbs.github.io</id>
 
+    <entry>
+        <title>2024年如何将你的网站快速被Google收录教程</title>
+        <author>
+            <name>爱笑哥</name>
+        </author>
+        <link href="https://sjdnxbs.github.io/2024nian-ru-he-jiang-ni-de-wang-zhan-kuai-su-bei-googleshou-lu-jiao-cheng.html"/>
+        <id>https://sjdnxbs.github.io/2024nian-ru-he-jiang-ni-de-wang-zhan-kuai-su-bei-googleshou-lu-jiao-cheng.html</id>
+        <media:content url="https://sjdnxbs.github.io/media/posts/20/045o8rn3R4DAM9QAQeI2CelAPFngGDEAACGb5sALW~tplv-dy-aweme-imagesq75.jpeg" medium="image" />
+            <category term="教程"/>
+            <category term="window"/>
+
+        <updated>2024-04-15T12:23:15+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sjdnxbs.github.io/media/posts/20/045o8rn3R4DAM9QAQeI2CelAPFngGDEAACGb5sALW~tplv-dy-aweme-imagesq75.jpeg" alt="" />
+                    自己写的文章不能被更多的人看到，那岂不是明珠暗投，锦衣夜行啊，所以我们需要将自己的网站被搜索引擎所收录，这样才能被更多的人看到。 本教程只记录如何快速被收录，默认你已经建立了自己的网站了。 则表明你的网站已被收录。 如果如下图这样 那表明你的网站还没有被谷歌收录。你继续往下看。2. 接下来就是将你的网站收录到谷歌 2.1 你首先要有一个谷歌账号，如果没有，你需要注册一个，如果你就直接登录 2.2 访问谷歌收录工具：Google Search Console 我们进入谷歌收录工具之后，第一步就是验证网站的所有权，就是看收录的网站是不是属于你的。 再上图中我们选择一个验证方式，比如我使用第二种 【网址前缀】 验证 ，输入你的网址网址（例如：https://sjdnxbs.github.io/） 2.3 选择验证方式，我选择的是文件验证，把需要验证的网页下载下来，然后放到你的网站的根目录下，然后刷新即可。 验证成功了。 3. 接下来就开始收录你的网站的网址了。 3.1 你可以通过站点地图来批量让谷歌收录，找到你网站的sitemap.xml 文件，将这个文件链接复制到站点链接这个页面 3.2 如果你的网站是新的网站，并且内容不多，你可以通过网址检查，一个一个的将你的网站页面被谷歌快速收录。个人经验，这个能非常快的被谷歌所收录 在网址检查页面，根据步骤2输入你要被谷歌收录的网页网址。 等待检查测试 4. 我们等待几分钟之后就可以检查你的网站网址是否被收录了。 我们再次输入site:你的网址（例如我的 site:https://sjdnxbs.github.io/） 表明的网站被谷歌所收录了。 我们还可以检查某个网站的网址是否被收录了，比如我的（site:https://sjdnxbs.github.io/2024nian-zui-xin-gu-ge-xiang-ji-an-zhuang-jiao-cheng.html） 表明我的网页也被谷歌收录了。 这只是我的一点经验，欢迎大家跟我一起讨论更多！！！
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sjdnxbs.github.io/media/posts/20/045o8rn3R4DAM9QAQeI2CelAPFngGDEAACGb5sALW~tplv-dy-aweme-imagesq75.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>自己写的文章不能被更多的人看到，那岂不是明珠暗投，锦衣夜行啊，所以我们需要将自己的网站被搜索引擎所收录，这样才能被更多的人看到。</p>
+<p>本教程只记录如何快速被收录，默认你已经建立了自己的网站了。</p>
+<ol>
+<li>首先检查你的网站是否已经被收录了，如果如下图<figure class="post__image post__image--center"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/20/1.png" alt="" width="867" height="572" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/20/responsive/1-xs.png 300w ,https://sjdnxbs.github.io/media/posts/20/responsive/1-sm.png 480w ,https://sjdnxbs.github.io/media/posts/20/responsive/1-md.png 768w ,https://sjdnxbs.github.io/media/posts/20/responsive/1-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/20/responsive/1-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/20/responsive/1-2xl.png 1600w"></figure></li>
+</ol>
+<p>       则表明你的网站已被收录。</p>
+<p>如果如下图这样</p>
+<figure class="post__image"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/20/2.png" alt="" width="876" height="606" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/20/responsive/2-xs.png 300w ,https://sjdnxbs.github.io/media/posts/20/responsive/2-sm.png 480w ,https://sjdnxbs.github.io/media/posts/20/responsive/2-md.png 768w ,https://sjdnxbs.github.io/media/posts/20/responsive/2-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/20/responsive/2-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/20/responsive/2-2xl.png 1600w"></figure>
+<p>那表明你的网站还没有被谷歌收录。你继续往下看。2. 接下来就是将你的网站收录到谷歌</p>
+<p>2.1 你首先要有一个谷歌账号，如果没有，你需要注册一个，如果你就直接登录</p>
+<p>2.2 访问谷歌收录工具：Google Search Console</p>
+<p>我们进入谷歌收录工具之后，第一步就是验证网站的所有权，就是看收录的网站是不是属于你的。</p>
+<figure class="post__image"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/20/44.png" alt="" width="767" height="536" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/20/responsive/44-xs.png 300w ,https://sjdnxbs.github.io/media/posts/20/responsive/44-sm.png 480w ,https://sjdnxbs.github.io/media/posts/20/responsive/44-md.png 768w ,https://sjdnxbs.github.io/media/posts/20/responsive/44-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/20/responsive/44-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/20/responsive/44-2xl.png 1600w"></figure>
+<p>再上图中我们选择一个验证方式，比如我使用第二种 【网址前缀】 验证 ，输入你的网址网址（例如：https://sjdnxbs.github.io/）</p>
+<p>2.3 选择验证方式，我选择的是文件验证，把需要验证的网页下载下来，然后放到你的网站的根目录下，然后刷新即可。</p>
+<figure class="post__image"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/20/55-2.png" alt="" width="930" height="402" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/20/responsive/55-2-xs.png 300w ,https://sjdnxbs.github.io/media/posts/20/responsive/55-2-sm.png 480w ,https://sjdnxbs.github.io/media/posts/20/responsive/55-2-md.png 768w ,https://sjdnxbs.github.io/media/posts/20/responsive/55-2-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/20/responsive/55-2-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/20/responsive/55-2-2xl.png 1600w"></figure>
+<p>验证成功了。</p>
+<p>3. 接下来就开始收录你的网站的网址了。</p>
+<p>3.1 你可以通过站点地图来批量让谷歌收录，找到你网站的sitemap.xml 文件，将这个文件链接复制到站点链接这个页面</p>
+<figure class="post__image"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/20/6-2.png" alt="" width="1239" height="520" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/20/responsive/6-2-xs.png 300w ,https://sjdnxbs.github.io/media/posts/20/responsive/6-2-sm.png 480w ,https://sjdnxbs.github.io/media/posts/20/responsive/6-2-md.png 768w ,https://sjdnxbs.github.io/media/posts/20/responsive/6-2-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/20/responsive/6-2-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/20/responsive/6-2-2xl.png 1600w"></figure>
+<p>3.2 如果你的网站是新的网站，并且内容不多，你可以通过网址检查，一个一个的将你的网站页面被谷歌快速收录。个人经验，这个能非常快的被谷歌所收录</p>
+<figure class="post__image"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/20/7.png" alt="" width="1157" height="576" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/20/responsive/7-xs.png 300w ,https://sjdnxbs.github.io/media/posts/20/responsive/7-sm.png 480w ,https://sjdnxbs.github.io/media/posts/20/responsive/7-md.png 768w ,https://sjdnxbs.github.io/media/posts/20/responsive/7-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/20/responsive/7-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/20/responsive/7-2xl.png 1600w"></figure>
+<p>在网址检查页面，根据步骤2输入你要被谷歌收录的网页网址。</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/20/8.png" alt="" width="370" height="208" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/20/responsive/8-xs.png 300w ,https://sjdnxbs.github.io/media/posts/20/responsive/8-sm.png 480w ,https://sjdnxbs.github.io/media/posts/20/responsive/8-md.png 768w ,https://sjdnxbs.github.io/media/posts/20/responsive/8-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/20/responsive/8-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/20/responsive/8-2xl.png 1600w"></figure>等待谷歌检索，然后发现网页没有被收录，我们根据步骤2选择【请求编入索引】</p>
+<figure class="post__image"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/20/9.png" alt="" width="972" height="380" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/20/responsive/9-xs.png 300w ,https://sjdnxbs.github.io/media/posts/20/responsive/9-sm.png 480w ,https://sjdnxbs.github.io/media/posts/20/responsive/9-md.png 768w ,https://sjdnxbs.github.io/media/posts/20/responsive/9-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/20/responsive/9-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/20/responsive/9-2xl.png 1600w"></figure>
+<p>等待检查测试</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/20/10.png" alt="" width="411" height="240" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/20/responsive/10-xs.png 300w ,https://sjdnxbs.github.io/media/posts/20/responsive/10-sm.png 480w ,https://sjdnxbs.github.io/media/posts/20/responsive/10-md.png 768w ,https://sjdnxbs.github.io/media/posts/20/responsive/10-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/20/responsive/10-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/20/responsive/10-2xl.png 1600w"></figure>检查测试完成之后，出现如下界面，表明你的网页正在被谷歌快速收录。</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/20/11.png" alt="" width="560" height="233" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/20/responsive/11-xs.png 300w ,https://sjdnxbs.github.io/media/posts/20/responsive/11-sm.png 480w ,https://sjdnxbs.github.io/media/posts/20/responsive/11-md.png 768w ,https://sjdnxbs.github.io/media/posts/20/responsive/11-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/20/responsive/11-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/20/responsive/11-2xl.png 1600w"></figure>
+<p>4. 我们等待几分钟之后就可以检查你的网站网址是否被收录了。</p>
+<p>我们再次输入site:你的网址（例如我的  site:https://sjdnxbs.github.io/）</p>
+<figure class="post__image"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/20/13.png" alt="" width="869" height="570" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/20/responsive/13-xs.png 300w ,https://sjdnxbs.github.io/media/posts/20/responsive/13-sm.png 480w ,https://sjdnxbs.github.io/media/posts/20/responsive/13-md.png 768w ,https://sjdnxbs.github.io/media/posts/20/responsive/13-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/20/responsive/13-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/20/responsive/13-2xl.png 1600w"></figure>
+<p>表明的网站被谷歌所收录了。</p>
+<p>我们还可以检查某个网站的网址是否被收录了，比如我的（site:https://sjdnxbs.github.io/2024nian-zui-xin-gu-ge-xiang-ji-an-zhuang-jiao-cheng.html）</p>
+<figure class="post__image"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/20/12.png" alt="" width="919" height="453" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/20/responsive/12-xs.png 300w ,https://sjdnxbs.github.io/media/posts/20/responsive/12-sm.png 480w ,https://sjdnxbs.github.io/media/posts/20/responsive/12-md.png 768w ,https://sjdnxbs.github.io/media/posts/20/responsive/12-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/20/responsive/12-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/20/responsive/12-2xl.png 1600w"></figure>
+<p>表明我的网页也被谷歌收录了。</p>
+<p>这只是我的一点经验，欢迎大家跟我一起讨论更多！！！</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>一分钟教会你用手机给电脑当摄像头</title>
         <author>
@@ -524,57 +584,6 @@
 <p>你还在为Autorun病毒发愁？Winrar就提供了“透视”功能。把那些隐藏属性的文件一目了然。</p>
 <figure class="post__image"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/10/1.png" alt="" width="497" height="432" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/10/responsive/1-xs.png 300w ,https://sjdnxbs.github.io/media/posts/10/responsive/1-sm.png 480w ,https://sjdnxbs.github.io/media/posts/10/responsive/1-md.png 768w ,https://sjdnxbs.github.io/media/posts/10/responsive/1-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/10/responsive/1-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/10/responsive/1-2xl.png 1600w"></figure>
 <p>下载链接：<a href="#INTERNAL_LINK#/null/undefined" title="下载软件链接">https://xiaobangshou.lanzoul.com/ixXXD1ua2rpg</a><br>密码:3j0u</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>python安装教程</title>
-        <author>
-            <name>爱笑哥</name>
-        </author>
-        <link href="https://sjdnxbs.github.io/pythonan-zhuang-jiao-cheng.html"/>
-        <id>https://sjdnxbs.github.io/pythonan-zhuang-jiao-cheng.html</id>
-        <media:content url="https://sjdnxbs.github.io/media/posts/7/4.jpeg" medium="image" />
-            <category term="教程"/>
-            <category term="window"/>
-
-        <updated>2024-03-22T22:11:53+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sjdnxbs.github.io/media/posts/7/4.jpeg" alt="" />
-                    打开国内的镜像网站Index of python-local/3.12.2 (huaweicloud.com)找到如下图的程序下载即可。比官网的要快 【我下载的是12.2的版本，你也可以根据自己的需求选择不同的版本】 下载完成之后就是安装了 我们选择自定义安装路径 对勾都打上，点击【Next】 2.3 出现如下界面 我们将安装路径改到自己需要安装的盘符，我是修改到了D盘，如下图，点击【install】 2.4 出现如下界面，等待安装进度条完成 2.5 安装完成后，如下操作打开命令行：同时按 “Windows+R” -&gt; 输入 “cmd” -&gt; 点击确定。 2.6 输入 “python” 然后 按【Enter】回车键，若出现下图显示的信息，表明安装成功（命令行变为三个大于号）
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://sjdnxbs.github.io/media/posts/7/4.jpeg" class="type:primaryImage" alt="" /></p>
-                <ol class="ol-list" start="">
-<li class="md-list-item">
-<p class="md-end-block md-p"><span class="md-plain md-expand">打开国内的镜像网站</span><span class="md-meta-i-c  md-link"><a href="https://mirrors.huaweicloud.com/python/3.12.2/"><span class="md-plain">Index of python-local/3.12.2 (huaweicloud.com)</span></a></span><span class="md-plain">找到如下图的程序下载即可。比官网的要快</span></p>
-<p class="md-end-block md-p"><span class="md-plain">【我下载的是12.2的版本，你也可以根据自己的需求选择不同的版本】</span></p>
-</li>
-</ol>
-<figure class="post__image"><span class="md-image md-img-loaded" data-src="python安装教程/image-20240221204028292-17085192328962.png"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/7/image-20240221204028292.png" alt="" width="1311" height="620" data-local-refresh="true" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221204028292-xs.png 300w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221204028292-sm.png 480w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221204028292-md.png 768w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221204028292-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221204028292-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221204028292-2xl.png 1600w"></figure></span></p>
-<ol class="ol-list" start="2">
-<li class="md-list-item">
-<p class="md-end-block md-p"><span class="md-plain">下载完成之后就是安装了</span></p>
-<figure class="post__image"><span class="md-plain">2.1 双击下载的程序，出现如下界面</span><span class="md-image md-img-loaded" data-src="python安装教程/image-20240221204859126.png"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/7/image-20240221204859126.png" alt="" width="654" height="373" data-local-refresh="true" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221204859126-xs.png 300w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221204859126-sm.png 480w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221204859126-md.png 768w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221204859126-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221204859126-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221204859126-2xl.png 1600w"></figure></span></p>
-</li>
-</ol>
-<p class="md-end-block md-p"><span class="md-plain">我们选择自定义安装路径</span></p>
-<figure class="post__image"><span class="md-plain">2.2 出现如下界面</span><span class="md-image md-img-loaded" data-src="python安装教程/image-20240221205138565.png"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/7/image-20240221205138565.png" alt="" width="654" height="373" data-local-refresh="true" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205138565-xs.png 300w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205138565-sm.png 480w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205138565-md.png 768w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205138565-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205138565-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205138565-2xl.png 1600w"></figure></span></p>
-<p class="md-end-block md-p"><span class="md-plain">对勾都打上，点击【Next】</span></p>
-<p class="md-end-block md-p"><span class="md-plain">2.3 出现如下界面</span></p>
-<figure class="post__image"><span class="md-image md-img-loaded" data-src="python安装教程/image-20240221205426484.png"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/7/image-20240221205426484.png" alt="" width="654" height="373" data-local-refresh="true" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205426484-xs.png 300w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205426484-sm.png 480w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205426484-md.png 768w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205426484-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205426484-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205426484-2xl.png 1600w"></figure></span></p>
-<p class="md-end-block md-p"><span class="md-plain">我们将安装路径改到自己需要安装的盘符，我是修改到了D盘，如下图，点击【install】</span></p>
-<figure class="post__image"><span class="md-image md-img-loaded" data-src="python安装教程/image-20240221205701323.png"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/7/image-20240221205701323.png" alt="" width="654" height="373" data-local-refresh="true" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205701323-xs.png 300w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205701323-sm.png 480w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205701323-md.png 768w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205701323-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205701323-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205701323-2xl.png 1600w"></figure></span></p>
-<p class="md-end-block md-p"><span class="md-plain">2.4 出现如下界面，等待安装进度条完成</span></p>
-<figure class="post__image"><span class="md-image md-img-loaded" data-src="python安装教程/image-20240221205942295.png"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/7/image-20240221205942295.png" alt="" width="654" height="373" data-local-refresh="true" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205942295-xs.png 300w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205942295-sm.png 480w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205942295-md.png 768w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205942295-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205942295-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221205942295-2xl.png 1600w"></figure></span></p>
-<figure class="post__image"><span class="md-plain">出现如下界面，点击【close】即可</span><span class="md-image md-img-loaded" data-src="python安装教程/image-20240221210156143.png"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/7/image-20240221210156143.png" alt="" width="654" height="373" data-local-refresh="true" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221210156143-xs.png 300w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221210156143-sm.png 480w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221210156143-md.png 768w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221210156143-lg.png 1024w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221210156143-xl.png 1360w ,https://sjdnxbs.github.io/media/posts/7/responsive/image-20240221210156143-2xl.png 1600w"></figure></span></p>
-<p class="md-end-block md-p"><span class="md-plain">2.5 安装完成后，如下操作打开命令行：同时按 “Windows+R” -&gt; 输入 “cmd” -&gt; 点击确定。</span></p>
-<figure class="post__image"><span class="md-image md-img-loaded" data-src="python安装教程/512b46eabdad4dc8a05a14c354e9ce42.jpeg"><img loading="lazy"  src="https://sjdnxbs.github.io/media/posts/7/512b46eabdad4dc8a05a14c354e9ce42.jpeg" alt="" width="644" height="370" data-local-refresh="true" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sjdnxbs.github.io/media/posts/7/responsive/512b46eabdad4dc8a05a14c354e9ce42-xs.jpeg 300w ,https://sjdnxbs.github.io/media/posts/7/responsive/512b46eabdad4dc8a05a14c354e9ce42-sm.jpeg 480w ,https://sjdnxbs.github.io/media/posts/7/responsive/512b46eabdad4dc8a05a14c354e9ce42-md.jpeg 768w ,https://sjdnxbs.github.io/media/posts/7/responsive/512b46eabdad4dc8a05a14c354e9ce42-lg.jpeg 1024w ,https://sjdnxbs.github.io/media/posts/7/responsive/512b46eabdad4dc8a05a14c354e9ce42-xl.jpeg 1360w ,https://sjdnxbs.github.io/media/posts/7/responsive/512b46eabdad4dc8a05a14c354e9ce42-2xl.jpeg 1600w"></figure></span></p>
-<p class="md-end-block md-p"><span class="md-plain">2.6 输入 “python” 然后 按【Enter】回车键，若出现下图显示的信息，表明安装成功（命令行变为三个大于号）</span></p>
-<p class="md-end-block md-p md-focus"> </p>
             ]]>
         </content>
     </entry>
